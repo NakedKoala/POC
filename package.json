@@ -1,0 +1,47 @@
+{
+ 
+  "dependencies": {
+ 
+   
+  "@orca-so/sdk": "1.2.24",
+ 
+   
+  "@solana/web3.js": "^1.43.1",
+ 
+   
+  "common-js": "^0.3.8",
+ 
+   
+  "csv-writer": "^1.6.0",
+ 
+   
+  "decimal.js": "^10.3.1",
+ 
+   
+  "mz": "^2.7.0"
+ 
+  },
+ 
+  "devDependencies": {
+ 
+   
+  "@tsconfig/node12": "^1.0.9",
+ 
+   
+  "@types/mz": "^2.7.4",
+ 
+   
+  "nodemon": "^2.0.16",
+ 
+   
+  "ts-node": "^10.8.0"
+ 
+  },
+ 
+  "scripts": {
+ 
+   
+  "start": "nodemon"
+ 
+  }
+}
